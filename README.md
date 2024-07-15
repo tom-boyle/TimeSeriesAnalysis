@@ -10,8 +10,4 @@ This repository contains various time series analysis techniques and implementat
 - `results/`: Results and output files
 - `requirements.txt`: Python dependencies
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Time-Series-Analysis.git
+#### work in progress
